@@ -4,37 +4,37 @@
       "id": "1",
       "nombre": "Gameboy original",
       "precio": "$170",
-      "imagen": "./img/product1.png"
+      "imagen": "https://tse4.mm.bing.net/th?id=OIP.Ho4UwUG4zc8X0Tz4zy_WYwHaHa&pid=Api&P=0&h=180"
     },
     {
       "id": "2",
       "nombre": "Taza Star Wars",
       "precio": "$90",
-      "imagen": "./img/product2.png"
+      "imagen": "https://tse1.mm.bing.net/th?id=OIP.ScvXBflcvKCnj6LIa20uMgHaHa&pid=Api&P=0&h=180"
     },
     {
       "id": "3",
       "nombre": "Campera Spiderman",
       "precio": "$230",
-      "imagen": "./img/campera.jpeg"
+      "imagen": "https://tse1.mm.bing.net/th?id=OIP.e9SK7KUlH3lyOSVvUVEiWgAAAA&pid=Api&P=0&h=180"
     },
     {
       "id": "4",
       "nombre": "Gorra Creeper",
       "precio": "$30",
-      "imagen": "./img/gorra.jpeg"
+      "imagen": "https://tse3.mm.bing.net/th?id=OIP.neBzRqHpfjOWh1lzW5aj1AHaHa&pid=Api&P=0&h=180"
     },
     {
       "id": "5",
       "nombre": "Muñeco Odie",
       "precio": "$95",
-      "imagen": "./img/muneco.jpeg"
+      "imagen": "https://tse1.mm.bing.net/th?id=OIP.hhy_d09J-5doGVSWqjyr0QHaHa&pid=Api&P=0&h=180"
     },
     {
       "id": "6",
       "nombre": "Taza Gamboy",
       "precio": "$60",
-      "imagen": "./img/taza__gameboy.jpeg"
+      "imagen": "https://tse1.mm.bing.net/th?id=OIP.4L2dL4hJ1oejFM8vsPf6swHaHv&pid=Api&P=0&h=180"
     },
     {
       "id": "b155",
